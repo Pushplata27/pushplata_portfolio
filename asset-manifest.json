@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pushplata_portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/pushplata_portfolio/static/js/main.497855e9.js",
+    "static/media/myImage.jpeg": "/pushplata_portfolio/static/media/myImage.b149d274f2bec2582364.jpeg",
+    "index.html": "/pushplata_portfolio/index.html",
+    "main.bf538fe7.css.map": "/pushplata_portfolio/static/css/main.bf538fe7.css.map",
+    "main.497855e9.js.map": "/pushplata_portfolio/static/js/main.497855e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.497855e9.js"
+  ]
+}
